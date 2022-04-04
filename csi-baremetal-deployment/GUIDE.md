@@ -61,7 +61,7 @@ sudo install kind /usr/local/bin/kind
 ```
 
 ### Установка go
-Скачиваем tar архив с [официально сайта go](https://go.dev/doc/install)
+Скачиваем tar архив с [официального сайта go](https://go.dev/doc/install)
 Теперь разархивируем
 ```
 tar -C $HOME -xzvf <наш архив>
